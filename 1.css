@@ -1,0 +1,13 @@
+#container {
+    background: #ddd;
+    width: 500px;
+    height: 300px;
+}
+svg {
+    /* background: red; */
+}
+path {
+    fill: none;
+    stroke: forestgreen;;
+    stroke-width: 2;
+}
